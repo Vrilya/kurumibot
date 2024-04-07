@@ -1,0 +1,25 @@
+{
+   "token": "",
+   "prefix": "?",
+   "ownerIDS": [
+      ""
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds",
+      "type": "PLAYING",
+      "url": "https://github.com/Vrilya"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
